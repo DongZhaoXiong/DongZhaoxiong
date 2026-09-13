@@ -23,8 +23,6 @@
 - 🛠️ I self-host what I reasonably can. 
 - 🚗 Homelab side quests — like [patching TeslaMate](https://github.com/DongZhaoXiong/teslamate_fix_addrs) so trips stop logging empty addresses.
 - 🌏 Based in **Beijing** · more at **[kraft.org.cn](https://kraft.org.cn)**
-
-<!-- 下面两行只有你自己知道；填好内容后删掉行首和行尾的注释符号即可显示 -->
 - 🌱 Currently learning on AI Infra/Agent Develop/LLM inference
 
 ## 🧰 Tech stack
