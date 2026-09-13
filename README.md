@@ -25,8 +25,7 @@
 - 🌏 Based in **Beijing** · more at **[kraft.org.cn](https://kraft.org.cn)**
 
 <!-- 下面两行只有你自己知道；填好内容后删掉行首和行尾的注释符号即可显示 -->
-<!-- - 🔭 Currently working on ... -->
-<!-- - 🌱 Currently learning ... -->
+- 🌱 Currently learning on AI Infra/Agent Develop/LLM inference
 
 ## 🧰 Tech stack
 
@@ -43,30 +42,5 @@
 **Data & Infra**
 
 <img src="https://skillicons.dev/icons?i=redis,docker,aws,linux&theme=dark" alt="Redis, Docker, AWS, Linux" />
-
-</div>
-
-<!-- 全部可用图标见 https://skillicons.dev —— 增删只需改 i= 后面的 slug 列表 -->
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<a href="https://github.com/DongZhaoXiong">
-  <img height="180em" src="https://kraft-readme-stats.vercel.app/api?username=DongZhaoXiong&show_icons=true&include_all_commits=true&count_private=true&hide=stars,contribs&rank_icon=github&theme=nightowl&hide_border=true&bg_color=011627" alt="Kraft's GitHub stats" />
-</a>
-<a href="https://github.com/DongZhaoXiong?tab=repositories">
-  <img height="180em" src="https://kraft-readme-stats.vercel.app/api/top-langs/?username=DongZhaoXiong&layout=compact&langs_count=6&exclude_repo=github-readme-stats&theme=nightowl&hide_border=true&bg_color=011627" alt="Most used languages" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/DongZhaoXiong">
-  <img src="https://streak-stats.demolab.com?user=DongZhaoXiong&theme=nightowl&hide_border=true&border_radius=6&background=011627" alt="GitHub streak" />
-</a>
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DongZhaoXiong&custom_title=Contribution%20activity&bg_color=011627&color=82AAFF&line=C792EA&point=FFFFFF&title_color=82AAFF&area=true&hide_border=true&radius=8" alt="Contribution activity graph" />
 
 </div>
