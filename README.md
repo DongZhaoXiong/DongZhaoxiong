@@ -20,7 +20,7 @@
 
 - 🧠 Rooted in **generative vision** — text-to-image GANs ([`Text-to-Cloth-GAN`](https://github.com/DongZhaoXiong/Text-to-Cloth-GAN), [`C-DCGAN`](https://github.com/DongZhaoXiong/C-DCGAN)).
 - ☁️ I train and deploy on **AWS / SageMaker**, and I like owning the whole path — from the training loop to the endpoint that serves it.
-- 🛠️ I self-host what I reasonably can. The cards below are rendered by **my own [`github-readme-stats`](https://github.com/DongZhaoXiong/github-readme-stats) instance**, not the public one.
+- 🛠️ I self-host what I reasonably can. 
 - 🚗 Homelab side quests — like [patching TeslaMate](https://github.com/DongZhaoXiong/teslamate_fix_addrs) so trips stop logging empty addresses.
 - 🌏 Based in **Beijing** · more at **[kraft.org.cn](https://kraft.org.cn)**
 
@@ -34,15 +34,15 @@
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv&theme=dark" alt="Python, PyTorch, TensorFlow, OpenCV" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" alt="Python, PyTorch, TensorFlow" />
 
 **Backend & Web**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,js,ts,react,nginx&theme=dark" alt="FastAPI, Flask, Node.js, JavaScript, TypeScript, React, Nginx" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,ts&theme=dark" alt="FastAPI, Flask, Node.js, TypeScript" />
 
 **Data & Infra**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,kubernetes,aws,linux,git,githubactions&theme=dark" alt="MySQL, PostgreSQL, Redis, Docker, Kubernetes, AWS, Linux, Git, GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=redis,docker,aws,linux&theme=dark" alt="Redis, Docker, AWS, Linux" />
 
 </div>
 
@@ -68,19 +68,5 @@
 <br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DongZhaoXiong&custom_title=Contribution%20activity&bg_color=011627&color=82AAFF&line=C792EA&point=FFFFFF&title_color=82AAFF&area=true&hide_border=true&radius=8" alt="Contribution activity graph" />
-
-</div>
-
-## 🐍 Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DongZhaoXiong/DongZhaoxiong/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DongZhaoXiong/DongZhaoxiong/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/DongZhaoXiong/DongZhaoxiong/output/github-contribution-grid-snake.svg" alt="Snake animation eating my contribution graph" />
-</picture>
-
-<sub>Regenerated daily by <a href="https://github.com/Platane/snk">Platane/snk</a> — see <a href="https://github.com/DongZhaoXiong/DongZhaoxiong/blob/main/.github/workflows/snake.yml"><code>.github/workflows/snake.yml</code></a></sub>
 
 </div>
