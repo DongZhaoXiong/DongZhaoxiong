@@ -19,7 +19,7 @@
 ## 🧑‍💻 About me
 
 - 🧠 Rooted in **generative vision** — text-to-image GANs ([`Text-to-Cloth-GAN`](https://github.com/DongZhaoXiong/Text-to-Cloth-GAN), [`C-DCGAN`](https://github.com/DongZhaoXiong/C-DCGAN)).
-- ☁️ I train and deploy on **AWS / SageMaker**, and I like owning the whole path — from the training loop to the endpoint that serves it.
+- ☁️ I train and deploy on **Amazon SageMaker**, and I like owning the whole path — from the training loop to the endpoint that serves it.
 - 🛠️ I self-host what I reasonably can. 
 - 🚗 Homelab side quests — like [patching TeslaMate](https://github.com/DongZhaoXiong/teslamate_fix_addrs) so trips stop logging empty addresses.
 - 🌏 Based in **Beijing** · more at **[kraft.org.cn](https://kraft.org.cn)**
@@ -29,18 +29,9 @@
 
 ## 🧰 Tech stack
 
-<div align="center">
-
-**AI / ML**
-
+<div align="left">
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow&theme=dark" alt="Python, PyTorch, TensorFlow" />
-
-**Backend & Web**
-
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,ts&theme=dark" alt="FastAPI, Flask, Node.js, TypeScript" />
-
-**Data & Infra**
-
 <img src="https://skillicons.dev/icons?i=redis,docker,aws,linux&theme=dark" alt="Redis, Docker, AWS, Linux" />
 
 </div>
